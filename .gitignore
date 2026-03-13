@@ -1,0 +1,15 @@
+.venv/
+README.md
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+.env
+*.db
+*.sqlite3
+*.log
+*.egg-info/
+dist/
+build/      
+.DS_Store

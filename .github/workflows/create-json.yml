@@ -1,0 +1,28 @@
+name: Manual JSON
+
+on:
+  workflow_dispatch:
+
+jobs:
+  process-txt:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run TXT Processor
+        run: python scrape-url.py
+
+      - name: Upload JSON files
+        uses: actions/upload-artifact@v4
+        with:
+          name: output
+          path: "output/*.json"

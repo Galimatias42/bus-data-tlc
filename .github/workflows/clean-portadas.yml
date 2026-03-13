@@ -1,0 +1,39 @@
+name: Clean Portadas Folders
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  clean-portadas:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT }}
+        
+      - name: Clean portadas folders
+        run: |
+          # Find all portadas directories
+          shopt -s extglob
+          for i in {0..4}; do
+              rm -f folder"$i"/portadas/!(.gitkeep)
+          done
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Check if there are changes to commit
+          if [[ -n $(git status -s) ]]; then
+            git add .
+            git commit -m "Clean portadas folders - $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi

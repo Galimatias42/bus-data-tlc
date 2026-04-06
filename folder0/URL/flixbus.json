@@ -1,12 +1,28 @@
 [
   {
-    "url": "https://www.escapadah.com/tendencias/2026/3/29/cuales-son-las-lineas-de-autobus-mas-economicas-para-viajar-en-semana-santa-36853.html",
-    "source": "escapadah.com",
-    "title": "¿Cuáles son las líneas de autobús más económicas para viajar en Semana Santa?",
+    "url": "https://retodiario.com/gobierno/empresas/2026/04/06/de-promesa-barata-a-golpe-al-bolsillo-flixbus-eleva-tarifas-hasta-329-pesos-en-semana-santa/",
+    "source": "retodiario.com",
+    "title": "De promesa barata a golpe al bolsillo: FlixBus eleva tarifas hasta 329 pesos en Semana Santa",
     "author": [
-      "Samantha De La Vega"
+      "Daniel Osorio"
     ],
-    "published_date": "2026-03-29T00:00:00",
-    "description": "FlixBus llegó con un modelo moderno basado en tecnología y tarifas muy competitivas. Los boletos para Puebla pueden encontrarse por menos de 100 pesos y a Querétaro desde 339. La red conecta ciudades como León, Monterrey y Aguascalientes con numerosas salidas semanales. Sus unidades incluyen Wi-Fi y cargadores, por lo que ofrecen conectividad y comodidad sin elevar demasiado el costo del viaje."
+    "published_date": "2026-04-06T00:00:00",
+    "description": "Lo que se vendió como una alternativa económica terminó convirtiéndose, para muchos poblanos, en una decepción en plena temporada alta. A pocas semanas de haber iniciado operaciones en Puebla, FlixBus enfrenta una ola de inconformidades por el aumento de sus tarifas durante Semana Santa, donde boletos que se promocionaban desde 89 pesos llegaron a ofrecerse hasta en 329 pesos. El contraste es el centro de la molestia. La expectativa se construyó sobre precios bajos y accesibles, pero en los días de mayor demanda, viajar en esta línea puede costar lo mismo o incluso más que en empresas tradicionales. De acuerdo con reportes de usuarios en redes sociales, el incremento responde al esquema de precios dinámicos que utiliza la compañía, un modelo que ajusta las tarifas en tiempo real según la demanda, el horario y la anticipación de compra. En teoría, permite acceder a boletos económicos; en la práctica, durante vacaciones"
+  },
+  {
+    "url": "posta.com.mx/tamaulipas/rutas-flixbus-monterrey-desde-tampico-inician-en-abril-de-2025/vl2185310",
+    "source": null,
+    "title": null,
+    "author": [],
+    "published_date": null,
+    "description": "Failed to extract: Invalid URL 'posta.com.mx/tamaulipas/rutas-flixbus-monterrey-desde-tampico-inician-en-abril-de-2025/vl2185310': No scheme supplied. Perhaps you meant https://posta.com.mx/tamaulipas/rutas-flixbus-monterrey-desde-tampico-inician-en-abril-de-2025/vl2185310?"
+  },
+  {
+    "url": "https://www.facebook.com/POSTATamauliipas/photos/-flixbus-expande-su-red-en-m%C3%A9xico-con-nuevas-rutas-desde-tampico-esto-es-lo-que-/807428759099834/",
+    "source": "facebook.com",
+    "title": "Facebook",
+    "author": [],
+    "published_date": null,
+    "description": ""
   }
 ]

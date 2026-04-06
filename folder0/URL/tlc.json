@@ -1,52 +1,75 @@
 [
   {
-    "url": "https://lasillarota.com/opinion/columnas/2026/3/28/t-mec-el-tratado-que-no-basta-592307.html",
-    "source": "lasillarota.com",
-    "title": "T-MEC: el tratado que no basta",
+    "url": "https://www.jornada.com.mx/noticia/2026/04/05/economia/crecen-exportaciones-de-mexico-a-un-ano-de-los-aranceles-de-trump",
+    "source": "jornada.com.mx",
+    "title": "Crecen exportaciones de México a un año de los aranceles de Trump",
     "author": [
-      "Jorge Faljo"
+      "La Jornada",
+      "Braulio Carbajal"
     ],
-    "published_date": "2026-03-28T00:00:00",
-    "description": "El secretario de economía dio una entrevista tras regresar de la primera ronda oficial de negociaciones del T-MEC en Washington. Planteó en el lenguaje de la diplomacia económica lo esperado por México. El mantenimiento del tratado, evitar, de hecho reducir los aranceles impuestos a México por la administración Trump y una política industrial más alineada con la de Estados Unidos. Esto porque ambos países tienen una dependencia mutua muy alta en sectores estratégicos."
+    "published_date": "2026-04-05T00:00:00",
+    "description": "Un año después de la aplicación de los primeros aranceles de Donald Trump, México mostró resiliencia y se reconfiguró para no sólo mantener el ritmo de exportaciones a Estados Unidos, su mayor socio comercial y principal potencia económica del mundo, sino que se las arregló para continuar aumentando sus ventas al exterior. Las cifras más recientes dan cuenta de ello. En febrero, según datos oficiales, México exportó a Estados Unidos bienes por 44 mil 310 millones de dólares, monto superior a los 41 mil 638 millones de dólares registrados en igual mes del año previo. En el mismo periodo, las importaciones mexicanas desde ese país también crecieron de 26 mil 753 millones de dólares a 28 mil 906 millones, lo que refleja un mayor dinamismo en el intercambio bilateral pese a la política arancelaria estadunidense. De acuerdo con la Oficina del Censo del Departamento de Comercio de Estados Unidos, entre"
   },
   {
-    "url": "https://www.noroeste.com.mx/amp/colaboraciones/medidas-anticorrupcion-que-se-pueden-fortalecer-frente-a-la-revision-del-t-mec-GB21131403",
-    "source": "noroeste.com.mx",
-    "title": "Medidas anticorrupción que se pueden fortalecer frente a la revisión del T–MEC",
+    "url": "https://serpientesyescaleras.mx/mexico-impulsa-exportaciones-y-eleva-cumplimiento-del-t-mec-frente-a-aranceles/",
+    "source": "serpientesyescaleras.mx",
+    "title": "México fortalece exportaciones eleva cumplimiento del T-MEC",
+    "author": [
+      "Serpientes Y Escaleras"
+    ],
+    "published_date": "2026-04-05T17:30:00+00:00",
+    "description": "• Empresas ajustan cadenas de suministro y elevan cumplimiento del T-MEC a 75.1% • México consolida su posición como principal socio comercial de Estados Unidos • Nearshoring y ventajas arancelarias fortalecen competitividad frente a China Transformación productiva ante nuevas reglas comerciales Durante 2025, México experimentó una reconfiguración significativa en sus cadenas de suministro como respuesta a la política arancelaria de Estados Unidos. Antes de la imposición de nuevos gravámenes, el 48.6% de las exportaciones cumplía con las reglas del T-MEC; hacia diciembre, esta cifra aumentó a 75.1%, lo que representa un crecimiento de 26.5 puntos porcentuales. Este ajuste fue impulsado por decisiones estratégicas del sector empresarial, que optó por adaptarse para evitar aranceles de hasta 25% en insumos no regionales. Entre las medidas implementadas destacan el cambio de proveedores, principalmente de Asia a Norteamérica, la certificación de origen de productos y el rediseño de procesos productivos para incrementar el contenido"
+  },
+  {
+    "url": "https://lajornadaestadodemexico.com/industria-automotriz-estabilidad-t-mec-ctm/",
+    "source": "lajornadaestadodemexico.com",
+    "title": "Industria automotriz mexicana mantiene estabilidad ante negociaciones del T-MEC: CTM",
+    "author": [
+      "Alejandra Reyes"
+    ],
+    "published_date": null,
+    "description": "La industria automotriz en México atraviesa un momento de estabilidad y confianza en medio de las negociaciones del Tratado entre México, Estados Unidos y Canadá (T-MEC). De acuerdo con Janitzio Soto Elguera, secretario general de la Federación de la CTM, existe certidumbre en que los acuerdos y aranceles que se definan en el marco del tratado resultarán positivos para el sector. Avanzan negociaciones del T-MEC El dirigente sindical destacó que, pese a la tensión internacional derivada del conflicto bélico entre Estados Unidos e Irán, el presidente estadounidense Donald Trump ha concentrado su atención en otros temas, lo que ha permitido que las negociaciones en materia automotriz avancen sin mayores presiones. “Hay confianza en que los servidores públicos mexicanos tienen la calidad de buenos negociadores, y eso nos ayuda, pues no nos ha estado afectando directamente”, afirmó. Uno de los puntos más relevantes es que, hasta el momento, no se han"
+  },
+  {
+    "url": "https://elheraldoslp.com.mx/new/2026/04/05/la-guerra-la-revision-del-t-mec-y-el-libro-de-los-cinco-anillos/",
+    "source": null,
+    "title": null,
     "author": [],
     "published_date": null,
-    "description": "La revisión del T-MEC es una oportunidad estratégica para fortalecer el Sistema Nacional Anticorrupción (SNA) en México. El sistema actual muestra fallas graves: las fiscalías anticorrupción solo judicializaron el 5.2 por ciento de las investigaciones por cohecho, enriquecimiento ilícito y abuso de autoridad, y apenas el 0.2 por ciento de las denuncias llegaron a sentencia. "
+    "description": "Failed to extract: HTTPSConnectionPool(host='elheraldoslp.com.mx', port=443): Max retries exceeded with url: /new/2026/04/05/la-guerra-la-revision-del-t-mec-y-el-libro-de-los-cinco-anillos/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1016)')))"
   },
   {
-    "url": "https://laradiodelmercosur.com.ar/mundiales/id-3231_-M-xico-est-listo-para-el-T-MEC-CANACINTRA-exige-mejores-carreteras-y-aduanas",
-    "source": "laradiodelmercosur.com.ar",
-    "title": "¿México está listo para el T-MEC? CANACINTRA exige mejores carreteras y aduanas",
+    "url": "https://eldiariodecoahuila.com.mx/2026/04/04/mexico-en-un-atolladero-economico-hasta-concluir-revision-del-t-mec/",
+    "source": "eldiariodecoahuila.com.mx",
+    "title": "Attention Required! | Cloudflare",
     "author": [],
     "published_date": null,
-    "description": "A fin de capitalizar la integración de México al Tratado entre México, Estados Unidos y Canadá (T-MEC), la Cámara Nacional de la Industria de la Transformación (CANACINTRA) hace un llamado al Gobierno Federal para brindar condiciones que faciliten la operación de las empresas de este y otros gremios."
+    "description": "This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data. You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page. Cloudflare Ray ID: 9e80e302fa2351ae • Your IP: Click to reveal 20.168.111.73 • Performance & security by Cloudflare"
   },
   {
-    "url": "https://laradiodelmercosur.com.ar/mundiales/id-3204_M-xico-rechaza-fallo-de-panel-laboral-del-T-MEC-tras-se-alar-amenazas-a-trabajadores-en-mina-Camino-Rojo-para-favorecer-a-grupos",
-    "source": "laradiodelmercosur.com.ar",
-    "title": "México rechaza fallo de panel laboral del T-MEC tras señalar amenazas a trabajadores en mina Camino Rojo para favorecer a grupos",
+    "url": "https://notigram.com/mexico/nacional/diputados-llaman-a-regular-la-ia-ante-vacios-en-la-ley-mexicana-20260404-1691078",
+    "source": "notigram.com",
+    "title": "Diputados llaman a regular la IA ante vacíos en la ley mexicana",
+    "author": [
+      "Grace Lira"
+    ],
+    "published_date": "2026-04-04T16:00:00",
+    "description": "Diputados llaman a regular la IA ante vacíos en la ley mexicana La acelerada evolución tecnológica ha colocado a México en una zona de vulnerabilidad jurídica ante el crecimiento de la inteligencia artificial (IA), advirtieron legisladores durante el debate sobre reformas a la Ley Federal del Derecho de Autor, al señalar que la falta de regulación deja desprotegidos la voz, imagen y trabajo creativo de artistas nacionales. Diputados de distintas bancadas coincidieron en que el país enfrenta un vacío legal urgente, ya que actualmente no existe una definición clara de inteligencia artificial dentro del marco normativo mexicano, lo que abre la puerta a abusos en un mercado digital globalizado. Vacíos legales amenazan el patrimonio cultural El diputado Erubiel Alonso, vicecoordinador del PRI, advirtió que el problema trasciende lo económico y alcanza la soberanía cultural, ya que la suplantación mediante IA en otros países deja a los creadores mexicanos sin herramientas"
+  },
+  {
+    "url": "https://www.informador.mx/mexico/mexico-se-consolida-como-principal-socio-comercial-de-eu-previo-a-la-renegociacion-del-tmec-20260404-0065.html",
+    "source": "informador.mx",
+    "title": "México se consolida como principal socio comercial de EU previo a la renegociación del TMEC",
     "author": [],
-    "published_date": null,
-    "description": "El gobierno mexicano rechazó el veredicto de un panel laboral del T-MEC en el caso de los trabajadores de la mina Camino Rojo, de la empresa Orla Mining, tras la resolución que señala que se cometieron violaciones graves a los derechos laborales en temas sindicales al favorecer a un grupo especifico mediante presiones y amenazas para que empleados cambiaran de afiliación."
+    "published_date": "2026-04-04T00:00:00",
+    "description": "En el marco de la renegociación del Tratado de Libre Comercio entre Canadá, Estados Unidos y México (T-MEC), México se consolida como el principal socio comercial del vecino del norte, mientras que también es el principal destino de los productos estadounidenses. De acuerdo con datos de la Oficina del Censo de Estados Unidos, el país supera a naciones como China, Taiwán y Reino Unido. En febrero, el valor de las exportaciones mexicanas hacia Estados Unidos sumaron 44 mil 311 millones de dólares, es decir, el 17.5 por ciento de todos los productos que ingresan a Estados Unidos. En comparación, Canadá representa el 11.5 por ciento, seguido de Taiwán con el 8.5 por ciento y China con el 7.5 por ciento. En este último caso, las tensiones comerciales y políticas entre ambas naciones, así como la imposición de aranceles a productos chinos, ha mermado la penetración del país asiático en el"
   },
   {
-    "url": "https://www.elmanana.com/amp/tamaulipas/cdvictoria/operativo-30-delta-revisiones-medicas-conductores/6112912",
+    "url": "https://www.elmanana.com/amp/empresarial/empresarial/exportaciones-made-in-mexico-alcanzan-85-mil-millones/6116015",
     "source": "elmanana.com",
-    "title": "Refuerzan control carretero para impedir accidentes",
+    "title": "Exportaciones a EUA tienen su mejor arranque en 3 años",
     "author": [],
     "published_date": null,
-    "description": "Tamaulipas es uno de los estados más importantes para el transporte de carga en México, ya que por sus cruces internacionales con Estados Unidos se mueve una gran parte del comercio internacional por carretera, al concentrar alrededor del 43.7 por ciento del flujo comercial terrestre entre México y Estados Unidos."
-  },
-  {
-    "url": "https://el-mexicano.com.mx/Noticia/Mexicali/91813/INDEX-participar%C3%A1-en-mesas-de-trabajo-del-TMEC",
-    "source": "el-mexicano.com.mx",
-    "title": "INDEX participará en mesas de trabajo del TMEC",
-    "author": [],
-    "published_date": null,
-    "description": "Una comitiva acudiría a Washington. Representantes de la industria de exportación local participarán en mesas de trabajo clave,informó Salvador Maese Barraza, presidente de Index Mexicali. La próxima semana, una comitiva nacional de Index viajará a Washington para continuar el diálogo con autoridades estadounidenses, quienes —según Maese— han reconocido el peso de la infraestructura logística y de almacenamiento que sostiene la industria exportadora en la franja fronteriza."
+    "description": ""
   }
 ]

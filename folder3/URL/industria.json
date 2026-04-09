@@ -1,65 +1,66 @@
 [
   {
-    "url": "https://eldiariodecoahuila.com.mx/2026/04/01/activa-sict-operativo-30-delta-a-transporte-de-pasajeros/",
-    "source": "eldiariodecoahuila.com.mx",
-    "title": "Activa SICT operativo 30 Delta a transporte de pasajeros",
+    "url": "https://heraldodemexico.com.mx/nacional/2026/4/8/guerrero-avanza-51-de-83-caminos-artesanales-ya-estan-terminados-informa-sict-793007.html",
+    "source": "heraldodemexico.com.mx",
+    "title": "Guerrero avanza: 51 de 83 caminos artesanales ya están terminados, informa SICT",
+    "author": [],
+    "published_date": "2026-04-08T00:00:00",
+    "description": "El Programa de Caminos Artesanales en Guerrero avanza con un modelo que distingue esta iniciativa: las obras se realizan en zonas de difícil acceso con la participación directa de los habitantes de la región, generando empleo local para mujeres y hombres de las comunidades beneficiadas. Los trabajos se coordinan con los gobiernos estatales y municipales bajo un esquema de colaboración comunitaria. Avance por región: Montaña y Sierra de Guerrero En la zona de la Montaña se han concluido 46 caminos artesanales y 25 más están en proceso. En la Sierra, cinco obras ya están terminadas y siete se encuentran en desarrollo, completando un avance de 51 caminos finalizados de los 83 programados para el estado, con los 32 restantes a punto de concluir. Las obras en el estado de Guerrero forman parte del Programa Nacional de Infraestructura Carretera 2025 - 2030, que contempla la construcción de 135 caminos artesanales en"
+  },
+  {
+    "url": "https://www.tallapolitica.com.mx/comision-de-gobernacion-avalo-siete-dictamenes-uno-de-ellos-faculta-a-la-sict-a-participar-en-infraestructura-de-salud/",
+    "source": null,
+    "title": null,
     "author": [],
     "published_date": null,
-    "description": "Con el objetivo de proteger a los viajeros durante esta temporada, personal de la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT), adscrito al Centro SICT Coahuila, puso en marcha un operativo de vigilancia en las terminales de pasajeros del estado."
+    "description": "Failed to extract: HTTPSConnectionPool(host='www.tallapolitica.com.mx', port=443): Max retries exceeded with url: /comision-de-gobernacion-avalo-siete-dictamenes-uno-de-ellos-faculta-a-la-sict-a-participar-en-infraestructura-de-salud/ (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fc196a9c210>, 'Connection to www.tallapolitica.com.mx timed out. (connect timeout=10)'))"
   },
   {
-    "url": "https://www.am.com.mx/guanajuato/2026/04/01/adios-al-pago-en-la-guanajuato-silao-sheinbaum-ordena-a-sict-revisar-la-eliminacion-de-la-caseta-1773033.html",
-    "source": "am.com.mx",
-    "title": "¿Adiós al pago en la Silao-Guanajuato? Sheinbaum pide a SICT revisar eliminación del peaje",
-    "author": [
-      "Catalina Reyes Colín",
-      "Alejandro Sandoval"
-    ],
-    "published_date": "2026-04-01T00:00:00",
-    "description": "La Presidenta de la República informó que le pedirá a la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) federal que revise con la gobernadora de Guanajuato, Libia Dennise García, la petición de un grupo de ciudadanos para eliminar el cobro de la caseta de cuota de la autopista Guanajuato-Silao. Esto lo dijo en la conferencia mañanera de hoy, como respuesta a las preguntas de la reportera Janet Alcántara, del portal de noticias PopLab."
-  },
-  {
-    "url": "https://vanguardia.com.mx/coahuila/realiza-sict-inspecciones-en-terminales-de-autobuses-de-coahuila-por-semana-santa-KK19756682",
-    "source": "vanguardia.com.mx",
-    "title": "Realiza SICT inspecciones en terminales de autobuses de Coahuila por Semana Santa",
-    "author": [],
-    "published_date": "2026-04-01T13:40:40-06:00",
-    "description": "La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT), a través del Centro SICT Coahuila, anunció la implementación de un esquema de vigilancia en las terminales de pasajeros del estado, como parte de los operativos para garantizar la seguridad de los viajeros durante el periodo vacacional de Semana Santa. El operativo se llevará a cabo del 30 de marzo al 10 de abril e incluirá la supervisión de las centrales de autobuses en Saltillo, Torreón, Monclova y Piedras Negras."
-  },
-  {
-    "url": "https://oem.com.mx/elsudcaliforniano/local/obra-de-la-glorieta-de-csl-quedara-lista-dos-meses-antes-asegura-sict-29272158",
-    "source": "oem.com.mx",
-    "title": "Obra de la Glorieta de CSL quedará lista dos meses antes, asegura SICT - El Sudcaliforniano",
-    "author": [],
-    "published_date": null,
-    "description": "Pese a las protestas, la obra presenta un avance del 80 por ciento, por lo que prevén entregarla antes de lo previsto Gilberto Santisteban Flores En este escenario, Gutiérrez de la Rosa sostiene que nunca se detuvieron las labores en la obra que está a cargo del Gobierno de México, y que fue anunciada por la presidenta de la República, Claudia Sheinbaum, desde 2025. Reconoció que sí hubo cierto retraso en suministros de materiales durante las protestas de camioneros de la Confederación Autónoma de Trabajadores y Empleados de México (Catem), que denunciaron retrasos en el pago de sueldos por tres meses. "
-  },
-  {
-    "url": "https://www.tyt.com.mx/nota/autopista-armeria-manzanillo-estara-lista-en-2026-promete-menos-trafico-de-carga",
+    "url": "https://www.tyt.com.mx/nota/sict-concluye-construccion-de-ocho-puentes-clave-en-la-carretera-salina-cruz-zihuatanejo",
     "source": "tyt.com.mx",
-    "title": "Autopista Armería-Manzanillo estará lista en 2026; promete agilizar movimiento de carga",
+    "title": "SICT concluye construcción de ocho puentes clave en la carretera Salina Cruz-Zihuatanejo",
     "author": [],
-    "published_date": "2026-04-01T10:56:48-06:00",
-    "description": "Entre los avances destaca la construcción de cuatro estructuras, de un total de 12 que conforman el proyecto. Una de ellas es el puente Tepalcates, de 300 metros de longitud y un claro de 150 metros, el cual se encuentra en proceso."
+    "published_date": "2026-04-08T12:02:49-05:00",
+    "description": ""
   },
   {
-    "url": "https://www.infobae.com/mexico/2026/04/01/tren-suburbano-aifa-vuelve-a-atrasar-apertura-sheinbaum-explica-la-razon/?outputType=amp-type",
-    "source": "infobae.com",
-    "title": "Tren Suburbano - AIFA vuelve a atrasar apertura, Sheinbaum explica la razón",
-    "author": [
-      "Luz Coello"
-    ],
-    "published_date": "2026-04-01T00:00:00",
-    "description": "Una vez más, la inauguración del Tren Suburbano que llegará al Aeropuerto Internacional Felipe Ángeles (AIFA) se atrasó. La presidenta Claudia Sheinbaum confirmó este martes 31 de marzo que la inauguración del tramo Lechería - AIFA, originalmente prevista para finales de marzo, deberá posponerse mientras continúan los trabajos de validación y seguridad."
+    "url": "https://udgtv.com/noticias/conductores-autos-plataforma-realizan-manifestacion-en-jalisco/311834",
+    "source": "udgtv.com",
+    "title": "Autos de plataforma harán protesta en Casa Jalisco y en el Centro Jalisco de la SICT",
+    "author": [],
+    "published_date": null,
+    "description": "Guadalajara, Jalisco. Conductores de autos de plataforma realizarán una manifestación este jueves, ante las oficinas de la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) y frente a Casa Jalisco. El objetivo es que las autoridades federales y estatales les expliquen a detalle el mecanismo para trabajar durante el Mundial de Futbol, en la zona del aeropuerto, a los autos de plataforma. Los cuatro partidos del Mundial en Guadalajara serán del 11 al 26 de junio. La protesta convocada por el Consejo de Conductores de Jalisco arrancará a las 11.30 horas en el parque de las Estrellas, en Jardines del Bosque y de ahí los autos llegarán a la sede de la SICT, en Lázaro Cárdenas y Niño Obrero. Después, se van a dirigir a Casa Jalisco, informó César Castillo, representante de los conductores. Detalles de la manifestación y peticiones a la SICT En la SICT, entregarán un pliego petitorio y"
   },
   {
-    "url": "https://thelogisticsworld.com/transporte/vacaciones-2026-carretera-elevan-riesgo-logistico-mexico-marsh/",
-    "source": "thelogisticsworld.com",
-    "title": "Vacaciones por carretera ponen a prueba la seguridad logística en México",
-    "author": [
-      "Redacción Tlw"
-    ],
-    "published_date": "2026-04-02T11:48:00+00:00",
-    "description": "Cada temporada vacacional modifica el ritmo de la red carretera mexicana. A la circulación habitual del autotransporte se suman miles de vehículos particulares que se desplazan hacia destinos turísticos y zonas metropolitanas, lo que aumenta la presión sobre corredores clave para la distribución y el abastecimiento. En ese entorno, el riesgo trasciende la movilidad para convertirse en un tema de seguridad logística, planeación de rutas, visibilidad de la operación y protección de activos."
+    "url": "https://oem.com.mx/elsoldeirapuato/local/mejorar-carreteras-tambien-es-seguridad-hay-164-mdp-para-conservar-tramos-en-guanajuato-sict-29370986",
+    "source": "oem.com.mx",
+    "title": "Mejorar carreteras también es seguridad; hay 164 mdp para conservar tramos en Guanajuato: SICT - El Sol de Irapuato",
+    "author": [],
+    "published_date": null,
+    "description": "Irma Leticia González Sánchez, delegada de SICT en Guanajuato, señaló que el buen estado de las vialidades reduce riesgos para transportistas; iniciarán rehabilitación de la carretera 45 en abril José Alfredo Moreno Destacó que una vialidad en malas condiciones puede propiciar situaciones de riesgo para los conductores, pues en ciertos contextos el detenerse o frenar la marcha por un camino en mal estado puede ser la diferencia entre un incidente o hasta asaltos. La funcionaria explicó que cuando una carretera presenta deterioro, obliga a los vehículos a reducir la velocidad o incluso detenerse, lo que puede convertirlos en blanco fácil de la delincuencia, especialmente en tramos con alta circulación de transporte de carga. “Una carretera en mal estado se presta mucho más a que vayan más lentos los vehículos, se detengan y ahí puedan ser presas de la delincuencia”. Explicó que una forma de atender las causas, dignificar y asegurarse"
+  },
+  {
+    "url": "https://entidadoaxaca.mx/2026/04/ubisort-confirma-nulos-avances-en-sus-demandas-ante-la-sict/",
+    "source": "entidadoaxaca.mx",
+    "title": "UBISORT confirma nulos avances en sus demandas ante la SICT",
+    "author": [],
+    "published_date": null,
+    "description": "Fabián Péreda, líder de la UBISORT, informó que no hay avances en sus demandas a la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT). El dirigente reconoció que en la mesa de trabajo del día de ayer no se llegó a ningún acuerdo, luego de que la dependencia pretendiera analizar el proyecto nuevamente. Sin embargo, precisó que desde hace 10 años entregaron todo el proyecto de la obra y les han dado largas al respecto. En ese sentido, acordaron mantener su plantón y advirtió que no se moverán si no se inicia la obra en la comunidad de la Unión de Los Ángeles. Detalló que su exigencia principal es que se empiece la obra y se traslade la maquinaria o, en su caso, se realice la renuncia de los responsables de la SICT en Oaxaca."
+  },
+  {
+    "url": "https://hoyxalapa.com/2026/04/08/ampliara-sict-tramo-de-carretera-ciudad-valles-tampico/",
+    "source": "hoyxalapa.com",
+    "title": "Ampliará SICT tramo de carretera Ciudad Valles-Tampico",
+    "author": [],
+    "published_date": "2026-04-08T00:00:00",
+    "description": "Las labores contemplan la construcción de un puente y dos entronques El proyecto se encuentra en etapa previa a su licitación, proceso que permitirá definir a la empresa encargada de la ejecución La Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) dio a conocer que se llevará a cabo la ampliación de siete kilómetros de la carretera federal Ciudad Valles-Tampico, correspondiente a la Ruta 70, al norte del estado de Veracruz. Estas obras forman parte de las acciones del programa de modernización carretera programadas para este año. El Centro SICT Veracruz informó que las labores contemplan la construcción de un puente y dos entronques, los cuales ayudarán a mejorar la conectividad, fortalecer la seguridad vial y optimizar los tiempos de traslado en la región. Actualmente, el proyecto se encuentra en etapa previa a su licitación, proceso que permitirá definir a la empresa encargada de la ejecución de los trabajos conforme a"
+  },
+  {
+    "url": "https://heraldodemexico.com.mx/nacional/2026/4/8/guerrero-avanza-en-infraestructura-sict-construye-ocho-puentes-clave-en-la-costa-chica-la-montana-alta-792982.html",
+    "source": "heraldodemexico.com.mx",
+    "title": "Guerrero avanza en infraestructura: SICT construye ocho puentes clave en la Costa Chica y la Montaña Alta",
+    "author": [],
+    "published_date": "2026-04-08T00:00:00",
+    "description": "Como parte de los trabajos de modernización del Eje Salina Cruz-Zihuatanejo, la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT) construyo ocho puentes en el tramo \"Las Vigas\" de la carretera federal Las Cruces-Pinotepa Nacional. Las estructuras, que suman mil 200 metros de vialidad, mejorarán el recorrido de los habitantes de la Costa Chica y la Montaña Alta de Guerrero, impulsarán el turismo y acercarán servicios a las comunidades de la región. Los puentes en construcción son: Nexpa, Talapilla, Quetzala, Santa Catarina, Las Vigas, Agua Hedionda, Copala y Marquelia I. El primer tramo en Guerrero de un eje que unirá Oaxaca con la Costa Grande Este conjunto de puentes representa el primer tramo desarrollado en Guerrero dentro del plan de modernización de la carretera Salina Cruz-Zihuatanejo, un eje que unirá los estados de Oaxaca y Guerrero y beneficiará a 1.9 millones de habitantes de ambas entidades al reducir tiempos de traslado"
   }
 ]
